@@ -1,5 +1,6 @@
 # RECRUITIQ
 #📌 Project Idea
+
 RecruitIQ is built to simplify and speed up candidate shortlisting by converting LinkedIn profiles into structured, searchable, and comparable data.
 Instead of manually reviewing profiles, recruiters can automatically collect, analyze, and rank candidates based on their alignment with job requirements.
 The system focuses on reducing manual effort, eliminating guesswork, and enabling data-driven hiring decisions through intelligent profile analysis and job description matching.
